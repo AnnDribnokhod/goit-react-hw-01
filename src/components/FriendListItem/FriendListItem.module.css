@@ -1,0 +1,26 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #000;
+  padding: 16px;
+  gap: 5px;
+  align-items: center;
+  border-radius: 4px;
+  background-color: #fff;
+  color: #000;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+.text_base {
+  font-size: 16px;
+}
+.text_xs {
+  font-size: 13px;
+}
+.font_medium {
+  font-weight: 500;
+}
